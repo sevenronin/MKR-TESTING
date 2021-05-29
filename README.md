@@ -15,5 +15,5 @@ Polygalov Vladimir - Architect + Developer
 Plakhina Tatiana -
 Timiskova Anna -
 Soboleva Daria -
-vsem privet ya vovka vorovka pedovka 
+vsem privet ya vovka vorovka 
 &
