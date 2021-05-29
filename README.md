@@ -10,7 +10,7 @@ Polygalov Vladimir, Plakhina Tatiana, Timiskova Anna, Soboleva Daria
 
 Buzmakov Ivan - Project Manager
 Kondratenkov Valery -
-Kuzminykh Ulyana -
+Kuzminykh Ulyana - srdfhdfgh
 Polygalov Vladimir - Architect + Developer
 Plakhina Tatiana -
 Timiskova Anna -
