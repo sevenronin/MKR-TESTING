@@ -14,7 +14,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using IMDbApiLib;
 using JMovies.IMDb;
-
+///////23423234
 namespace MovieFinder
 {
     public class IMDb
@@ -34,6 +34,7 @@ namespace MovieFinder
             InitializeComponent();
             IMDb a = new IMDb();
             a.IMDb_call();
+            //hello
         }
     }
 }

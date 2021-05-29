@@ -7,12 +7,17 @@ The idea of the project: search for a movie randomly, by genre or by year, if yo
 
 Participants: Ivan Buzmakov, Valery Kondratenkov, Ulyana Kuzminykh,
 Polygalov Vladimir, Plakhina Tatiana, Timiskova Anna, Soboleva Daria
- 
+
 Buzmakov Ivan - Project Manager
 Kondratenkov Valery -
-Kuzminykh Ulyana -
+Kuzminykh Ulyana - privet
 Polygalov Vladimir - Architect + Developer
 Plakhina Tatiana -
 Timiskova Anna -
 Soboleva Daria -
+<<<<<<< HEAD
 &
+=======
+vsem privet ya vovka vorovka 
+&
+>>>>>>> main
