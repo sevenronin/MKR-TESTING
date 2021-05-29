@@ -34,6 +34,7 @@ namespace MovieFinder
             InitializeComponent();
             IMDb a = new IMDb();
             a.IMDb_call();
+            //hello
         }
     }
 }
