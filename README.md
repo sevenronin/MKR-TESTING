@@ -10,10 +10,10 @@ Polygalov Vladimir, Plakhina Tatiana, Timiskova Anna, Soboleva Daria
 
 Buzmakov Ivan - Project Manager
 Kondratenkov Valery -
-Kuzminykh Ulyana - privet
+Kuzminykh Ulyana - Business analyst (product manager)?
 Polygalov Vladimir - Architect + Developer
 Plakhina Tatiana -
 Timiskova Anna -
 Soboleva Daria -
-vsem privet ya vovka vorovka pedovka 
+vsem privet ya vovka vorovka 
 &
