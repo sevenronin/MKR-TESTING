@@ -9,7 +9,7 @@ Participants: Ivan Buzmakov, Valery Kondratenkov, Ulyana Kuzminykh,
 Polygalov Vladimir, Plakhina Tatiana, Timiskova Anna, Soboleva Daria
  
 Buzmakov Ivan - Project Manager
-Kondratenkov Valery -
+Kondratenkov Valeriy - Tsar'
 Kuzminykh Ulyana -
 Polygalov Vladimir - Architect + Developer
 Plakhina Tatiana -
