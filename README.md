@@ -9,15 +9,10 @@ Participants: Ivan Buzmakov, Valery Kondratenkov, Ulyana Kuzminykh,
 Polygalov Vladimir, Plakhina Tatiana, Timiskova Anna, Soboleva Daria
 
 Buzmakov Ivan - Project Manager
-Kondratenkov Valeriy - Tsar'
+Kondratenkov Valeriy - ne Tsar'
 Kuzminykh Ulyana - Business analyst (product manager)?
 Polygalov Vladimir - Architect + Developer
 Plakhina Tatiana -
 Timiskova Anna -
-Soboleva Daria -
-<<<<<<< HEAD
-&
-=======
-vsem privet ya vovka vorovka 
-&
->>>>>>> main
+Soboleva Daria - 
+
